@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat; 
+    height: 100vh;
+    background: rgba(131, 58, 180, 0.651);
+background: linear-gradient(90deg, rgba(131,58,180,0.5616438356164384) 12%, rgba(253, 29, 29, 0.63) 50%, rgba(252, 176, 69, 0.63) 100%);
+}
+#sayiDeger{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+   font-size: 55px;
+   padding-top: 10px;
+}
+#arttirma{
+border-radius: 20%;
+    background-color: black;
+    color: beige;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+     margin-left: 49%;
+    width: 35px;
+    height: 30px;
+}
+.p-1{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 60px;
+    
+     font-size: 32px;
+}
+.p-2{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 50px;
+    
+     font-size: 32px;
+}
